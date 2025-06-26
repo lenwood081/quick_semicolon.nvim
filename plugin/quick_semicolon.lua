@@ -1,1 +1,1 @@
-print("quick_semicolon loaded")
+require("quick_semicolon").setup()
