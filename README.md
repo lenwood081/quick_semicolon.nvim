@@ -9,7 +9,10 @@ Default functionality
 
 Simply append lines to your plugin manager
 _Lazy.nvim_
-![{ lenwood081/quick_semicolon, opts = {}}][./lib/semicolon_config.png]
+![{ lenwood081/quick_semicolon, opts = {}}](./lib/semicolon_config.png)
+'''
+testing
+'''
 
 ### Configuration
 
