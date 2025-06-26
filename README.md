@@ -21,3 +21,7 @@ To add another keymap, insert the following code somewhere in your nvim lua conf
 
 ![change keymap](./lib/quick_semicolon_alternative_binding.png)
 
+### Future functionality
+
+  - option that returns the curser to the original positon in the line
+  - option that puts the curser on the line below after placing the semi colon
