@@ -3,7 +3,7 @@
 Simple nvim plugin to append a semi colon to the end of the selected line, also appends surser to the end of the line.
 
 Default functionality
-  - use <leader> + ; in normal mode to append a semi colon to the end of the line from anywhere in that line.
+  - use 'leader' + ';' in normal mode to append a semi colon to the end of the line from anywhere in that line.
 
 ### Installation
 
