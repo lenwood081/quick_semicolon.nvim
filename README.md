@@ -19,3 +19,5 @@ To remove the default key binding, add _disable = true_ to opts.
 
 To add another keymap, insert the following code somewhere in your nvim lua configuration files.
 
+![change keymap](./lib/quick_semicolon_alternative_binding.png)
+
